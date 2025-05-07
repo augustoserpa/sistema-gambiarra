@@ -15,3 +15,5 @@ const app = initializeApp(firebaseConfig);
 // Exporta o Firestore para usar no projeto//
 const db = getFirestore(app);
 export { db };
+
+//meu nome é augusto daniel alves serpa
